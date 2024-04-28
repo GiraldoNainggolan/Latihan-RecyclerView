@@ -2,6 +2,7 @@ package com.vinz.latihanrecyclerview1.data
 
 import com.vinz.latihanrecyclerview1.R
 
+// Dummy data yang nantinya akan kita tampilkan di dalam Aplikasi
 object PlayerDataList {
     val playerDataValue = arrayListOf(
         PlayerData(
